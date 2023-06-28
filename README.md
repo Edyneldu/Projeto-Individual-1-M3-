@@ -22,19 +22,16 @@ O RESILIADATA é uma aplicação web que permite o cadastro e acompanhamento das
 - **Cadastro de Colaboradores:**
     - Permite adicionar informações dos colaboradores vinculados a cada empresa parceira, como nome, cargo, perfil profissional, habilidades e experiências relevantes. Essas informações auxiliam na identificação de talentos e na compreensão do capital humano das empresas parceiras.
 
-## Exemplo de demostração de funcionalidades:
+## Exemplo de demonstração de funcionalidades:
 
 Simulação de 2 registros para cada entidade:
 __________________________________________________________
 EMPRESAS PARCEIRAS:
 __________________________________________________________
-
 ID: 123456
 Nome: Empresa ProHertz
 Endereço: Av. America 666
 Contato: 11111111
-
-----------------------------------------------------------
 
 ID: 654321
 Nome: Empresa Habarcovisky
@@ -58,8 +55,6 @@ ID: 514
 ID da Empresa: 123456
 ID da Tecnologia: 1ddd669
 
-------------------------------------------------------------
-
 ID: 672
 ID da Empresa: 654321
 ID da Tecnologia: 2ppp996
@@ -78,3 +73,5 @@ ID: 66
 Nome: Mr. SATAN
 Cargo: SUDO MASTER
 ID da Empresa: 654321
+
+#Projeto com licença de codigo aberto, então, sinta-se avontade para complementar e adicionar melhorias.
